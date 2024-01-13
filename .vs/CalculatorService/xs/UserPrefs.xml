@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{98D05248-B0C4-4A28-BBED-FE00C9452D43}|https">
+﻿<Properties StartupConfiguration="{98D05248-B0C4-4A28-BBED-FE00C9452D43}|https" GitUserInfo="UsingGIT">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CalculatorService FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CalculatorService FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
